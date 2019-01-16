@@ -18,6 +18,7 @@ Můžete:
 - Upravit překlad
 - Použít v patentu
 - Použít soukromě
+
 Musíte:
 - Použít licenci GPU GPLv3 pro Váš projekt
 - Udělat váš projekt open-source
