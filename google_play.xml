@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?sketchware version="2.2" locale="cs"?>
+<resources>
+  <!-- Google play visibility-->
+  <string name="title">Vytvářej vlastní aplikace</string>
+  <string name="desc_short"> </string>
+  <string name="desc_long">Vytvářej nativní aplikace na android.
+
+  Hlavní funkce:
+
+  - Blokové programování ve stylu Scratch od MIT
+  - Visuální integrované vývojářské prostředí
+  - Automatically translated source code (Java and XML)
+  - Compile and build install files on your phone (APK file)
+  - Publish and update to Google Play Store
+  - Fully Compatible with Android Studio
+
+  Sketchware is a Scratch-like block programming based integrated development environment (IDE) for developing mobile Android apps.
+
+  It's okay if you do not know anything about developing Android apps. Sketchware is an IDE that uses block language like Scratch, an innovative programming language invented by MIT that transforms the complex language of text-based coding into visual, drag-and-drop building blocks.
+
+  Scratch is such a simple language, even little children can learn to develop. Sketchware translates Scratch into Java and XML source codes, so there is no limit on what you can develop.
+
+  Sketchware provides documentations you can follow to become an expert at Scratch block programming and Android app development. Each example contains programming concepts you can understand by completing the project.
+
+  Visually design and develop apps, then simply run your app with a single click to build and install directly on your Android device. The projects are fully compatible with Android Studio, an IDE used on a PC, so you can export your finished project and continue working on Android Studio, or your favorite editor.
+
+  Required Permissions:
+
+  - WRITE_EXTERNAL_STORAGE / READ_EXTERNAL_STORAGE: This permission is required to save and run projects.
+
+  - GET_ACCOUNTS : This permission is required to login with Google Account.
+
+  Disclaimer: This app was developed independently of the MIT Scratch Team, which produces the Scratch programming language and online community. The Scratch name and Scratch cat are trademarks of MIT.
+</string>
+</resources>
