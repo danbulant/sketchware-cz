@@ -517,45 +517,45 @@
         *************************************************************************************************************************
         *************************************************   Component   Start           *****************************************
         ************************************************************************************************************************* -->
-        <string name="component_context_menu_title">Component menu</string>
-        <string name="component_context_menu_title_delete_component">Delete Component</string>
+        <string name="component_context_menu_title">Menu komponent</string>
+        <string name="component_context_menu_title_delete_component">Smazat komponentu</string>
 
-        <string name="component_hint_enter_name">Enter Component name</string>
+        <string name="component_hint_enter_name">Název komponenty</string>
 
-        <string name="component_file_title_file_name">File name</string>
-        <string name="component_file_hint_enter_file_name">Enter file name</string>
+        <string name="component_file_title_file_name">Název souboru</string>
+        <string name="component_file_hint_enter_file_name">Napište název souboru</string>
 
-        <string name="component_message_component_block_added">New blocks have been added in the Logic Editor</string>
-        <string name="component_message_no_components">No components to display</string>
+        <string name="component_message_component_block_added">Nové bloky byly přidány</string>
+        <string name="component_message_no_components">Žádné komponenty k zobrazení</string>
 
-        <string name="component_file_picker_hint_mime_type">Enter mime type</string>
-        <string name="component_file_picker_title_select_mime_type">Select Mime Type</string>
+        <string name="component_file_picker_hint_mime_type">Napište typ MIME</string>
+        <string name="component_file_picker_title_select_mime_type">Vyberte typ MIME</string>
 
-        <string name="component_file_picker_title_select_mime_type_all_files">All files</string>
-        <string name="component_file_picker_title_select_mime_type_image_files">Image files</string>
-        <string name="component_file_picker_title_select_mime_type_audio_files">Audio files</string>
-        <string name="component_file_picker_title_select_mime_type_text_files">Text files</string>
+        <string name="component_file_picker_title_select_mime_type_all_files">Všechny soubory</string>
+        <string name="component_file_picker_title_select_mime_type_image_files">soubory obrázků</string>
+        <string name="component_file_picker_title_select_mime_type_audio_files">Soubory audia</string>
+        <string name="component_file_picker_title_select_mime_type_text_files">Soubory textu</string>
 
-        <string name="component_title_add_component">Add Component</string>
+        <string name="component_title_add_component">Přidat komponentu</string>
 
-        <string name="component_description_intent">Intent is used to start a new Activity</string>
-        <string name="component_description_file">File is used to save data locally</string>
-        <string name="component_description_calendar">Calendar is used to calculate time and date</string>
-        <string name="component_description_vibrator">Vibrator is used vibrate the device</string>
-        <string name="component_description_timer">Timer is used to delay certain actions</string>
-        <string name="component_description_soundpool">SoundPool is used to play short sound effects</string>
-        <string name="component_description_mediaplayer">MediaPlayer is used to play big sound files</string>
-        <string name="component_description_dialog">Dialog is used to create a pop-up</string>
-        <string name="component_description_objectanimator">ObjectAnimator is used to animate certain properties of a View</string>
-        <string name="component_description_gyrosope">The gyroscope measures the rate of rotation in rad/s around a device\'s x, y, and z axis.</string>
-        <string name="component_description_firebase_auth">Firebase Auth allows online user authentication</string>
+        <string name="component_description_intent">Intent je použit ke změně aktivity</string>
+        <string name="component_description_file">File je použit k manipulaci se soubory</string>
+        <string name="component_description_calendar">Calendar je použit k získání času</string>
+        <string name="component_description_vibrator">Vibrator vybruje zařízením</string>
+        <string name="component_description_timer">Timer je použit k časování různých aktivit</string>
+        <string name="component_description_soundpool">SoundPool je použit k přehráni malých audio souborů</string>
+        <string name="component_description_mediaplayer">MediaPlayer je použit k přehrání velkých hudebních souborů</string>
+        <string name="component_description_dialog">Dialog je použit k vytvoření vyskakovacího okna</string>
+        <string name="component_description_objectanimator">ObjectAnimator je použit k animaci widgetů</string>
+        <string name="component_description_gyrosope">Gyroskop měří náklo zařízení ve formě X, Y, Z</string>
+        <string name="component_description_firebase_auth">Firebase Auth povoluje online přihlášení</string>
 
         <!-- ************************************** ToDo : 2018.06.08 Component Description *******************************************-->
         <string name="component_description_firebase_storage">Firebase Storage is built for app developers who need to store and serve user-generated content.</string>
-        <string name="component_description_camera">Camera is used to take a picture.</string>
-        <string name="component_description_file_picker">FilePicker is used to select raw and media files, such as images, sounds, and text.</string>
+        <string name="component_description_camera">Camera je použita k vyfocení snímku.</string>
+        <string name="component_description_file_picker">FilePicker je použit k výběru souborů</string>
 
-        <string name="component_description_file_picker_guide_mime_type_example">MIME type is used to identify a type of data.\nex)\"*/*\", \"image/*\", \"audio/*\", \"text/*\"</string>
+        <string name="component_description_file_picker_guide_mime_type_example">MIME je použit k limitaci výběru.\nex)\"*/*\", \"image/*\", \"audio/*\", \"text/*\"</string>
         <!-- *************************************************************************************************************************
         *************************************************   Component   End             *****************************************
         *************************************************************************************************************************
