@@ -475,41 +475,41 @@
             <string name="event_onresume">Při znovuspuštění aktivity</string>
             <string name="event_onpause">Při pozastavení aktivity</string>
             <string name="event_onclick">při kliknutí</string>
-            <string name="event_oncheckchanged">onCheckChanged</string>
-            <string name="event_onitemselected">onItemSelected</string>
-            <string name="event_ontextchanged">onTextChanged</string>
-            <string name="event_onprogresschanged">onProgressChanged</string>
-            <string name="event_onstarttrackingtouch">onStartTrackingTouch</string>
-            <string name="event_onstoptrackingtouch">onStopTrackingTouch</string>
-            <string name="event_onpagestarted">onPageStarted</string>
-            <string name="event_onpagefinished">onPageFinished</string>
-            <string name="event_onanimationstart">onAnimationStart</string>
-            <string name="event_onanimationend">onAnimationEnd</string>
-            <string name="event_onanimationcancel">onAnimationCancel</string>
-            <string name="event_onitemclicked">onItemClicked</string>
-            <string name="event_onitemlongclicked">onItemLongClicked</string>
-            <string name="event_onbindcustomview">onBindCustomView</string>
+            <string name="event_oncheckchanged">Při změně výběru</string>
+            <string name="event_onitemselected">Při výběru položky</string>
+            <string name="event_ontextchanged">Při změně textu</string>
+            <string name="event_onprogresschanged">Při změně hodnoty</string>
+            <string name="event_onstarttrackingtouch">Při začátku sledování dotyku</string>
+            <string name="event_onstoptrackingtouch">Při ukončení sledování dotyku</string>
+            <string name="event_onpagestarted">Při začátku načítání</string>
+            <string name="event_onpagefinished">Při dokončení načítání</string>
+            <string name="event_onanimationstart">Při začátku animace</string>
+            <string name="event_onanimationend">Při konci animace</string>
+            <string name="event_onanimationcancel">Při zrušení animace</string>
+            <string name="event_onitemclicked">Při kliknutí na položku</string>
+            <string name="event_onitemlongclicked">Při dlouhém kliknutí na položku</string>
+            <string name="event_onbindcustomview">Při nastavení vlastního zobrazení</string>
 
             <string name="event_onchildadded">onChildAdded</string>
             <string name="event_onchildchanged">onChildChanged</string>
             <string name="event_onchildremoved">onChildRemoved</string>
-            <string name="event_oncancelled">onCancelled</string>
-            <string name="event_onsensorchanged">onSensorChanged</string>
-            <string name="event_oncreateusercomplete">onCreateUserComplete</string>
-            <string name="event_onsigninusercomplete">onSignInUserComplete</string>
-            <string name="event_onresetpasswordemailsent">onResetPasswordEmailSent</string>
-            <string name="event_onadloaded">onAdLoaded</string>
-            <string name="event_onadfailedtoload">onAdFailedToLoad</string>
-            <string name="event_onadopened">onAdOpened</string>
-            <string name="event_onadclosed">onAdClosed</string>
-            <string name="event_onuploadprogress">onUploadProgress</string>
-            <string name="event_ondownloadprogress">onDownloadProgress</string>
-            <string name="event_onuploadsuccess">onUploadSuccess</string>
-            <string name="event_ondownloadsuccess">onDownloadSuccess</string>
-            <string name="event_ondeletesuccess">onDeleteSuccess</string>
-            <string name="event_onfailure">onFailure</string>
-            <string name="event_onpicturetaken">onPictureTaken</string>
-            <string name="event_onfilespicked">onFilesPicked</string>
+            <string name="event_oncancelled">Při zrušení</string>
+            <string name="event_onsensorchanged">Při změně sensoru</string>
+            <string name="event_oncreateusercomplete">Při dokončení registrace</string>
+            <string name="event_onsigninusercomplete">Při dokončení přihlášení</string>
+            <string name="event_onresetpasswordemailsent">Při odeslání emailu s resetováním hesla</string>
+            <string name="event_onadloaded">Při načtení reklamy</string>
+            <string name="event_onadfailedtoload">Při nenačtení reklamy</string>
+            <string name="event_onadopened">Při otevření reklamy</string>
+            <string name="event_onadclosed">Při zavření reklamy</string>
+            <string name="event_onuploadprogress">Při nahrávání</string>
+            <string name="event_ondownloadprogress">Při stahování</string>
+            <string name="event_onuploadsuccess">Při nahrání</string>
+            <string name="event_ondownloadsuccess">Při stáhnutí</string>
+            <string name="event_ondeletesuccess">Při smazání</string>
+            <string name="event_onfailure">Při zkažení</string>
+            <string name="event_onpicturetaken">Při vyfocení</string>
+            <string name="event_onfilespicked">Při vybrání souborů</string>
 
         <!-- *************************************************************************************************************************
         *************************************************   Event   End                 *****************************************
@@ -517,38 +517,45 @@
         *************************************************************************************************************************
         *************************************************   Component   Start           *****************************************
         ************************************************************************************************************************* -->
-        <string name="component_context_menu_title"></string>
-        <string name="component_context_menu_title_delete_component"></string>
-        <string name="component_hint_enter_name"></string>
-        <string name="component_file_title_file_name"></string>
-        <string name="component_file_hint_enter_file_name"></string>
-        <string name="component_message_component_block_added"></string>
-        <string name="component_message_no_components"></string>
-        <string name="component_file_picker_hint_mime_type"></string>
-        <string name="component_file_picker_title_select_mime_type"></string>
-        <string name="component_file_picker_title_select_mime_type_all_files"></string>
-        <string name="component_file_picker_title_select_mime_type_image_files"></string>
-        <string name="component_file_picker_title_select_mime_type_audio_files"></string>
-        <string name="component_file_picker_title_select_mime_type_text_files"></string>
-        <string name="component_title_add_component"></string>
-        <string name="component_description_intent"></string>
-        <string name="component_description_file"></string>
-        <string name="component_description_calendar"></string>
-        <string name="component_description_vibrator"></string>
-        <string name="component_description_timer"></string>
-        <string name="component_description_soundpool"></string>
-        <string name="component_description_mediaplayer"></string>
-        <string name="component_description_dialog"></string>
-        <string name="component_description_objectanimator"></string>
-        <string name="component_description_gyrosope"></string>
-        <string name="component_description_firebase_auth"></string>
+        <string name="component_context_menu_title">Component menu</string>
+        <string name="component_context_menu_title_delete_component">Delete Component</string>
 
-        <!-- ************************************** ToDo : 2018.06.08 Component Description ******************************************* -->
-        <string name="component_description_firebase_storage"></string>
-        <string name="component_description_camera"></string>
-        <string name="component_description_file_picker"></string>
-        <string name="component_description_file_picker_guide_mime_type_example"></string>
+        <string name="component_hint_enter_name">Enter Component name</string>
 
+        <string name="component_file_title_file_name">File name</string>
+        <string name="component_file_hint_enter_file_name">Enter file name</string>
+
+        <string name="component_message_component_block_added">New blocks have been added in the Logic Editor</string>
+        <string name="component_message_no_components">No components to display</string>
+
+        <string name="component_file_picker_hint_mime_type">Enter mime type</string>
+        <string name="component_file_picker_title_select_mime_type">Select Mime Type</string>
+
+        <string name="component_file_picker_title_select_mime_type_all_files">All files</string>
+        <string name="component_file_picker_title_select_mime_type_image_files">Image files</string>
+        <string name="component_file_picker_title_select_mime_type_audio_files">Audio files</string>
+        <string name="component_file_picker_title_select_mime_type_text_files">Text files</string>
+
+        <string name="component_title_add_component">Add Component</string>
+
+        <string name="component_description_intent">Intent is used to start a new Activity</string>
+        <string name="component_description_file">File is used to save data locally</string>
+        <string name="component_description_calendar">Calendar is used to calculate time and date</string>
+        <string name="component_description_vibrator">Vibrator is used vibrate the device</string>
+        <string name="component_description_timer">Timer is used to delay certain actions</string>
+        <string name="component_description_soundpool">SoundPool is used to play short sound effects</string>
+        <string name="component_description_mediaplayer">MediaPlayer is used to play big sound files</string>
+        <string name="component_description_dialog">Dialog is used to create a pop-up</string>
+        <string name="component_description_objectanimator">ObjectAnimator is used to animate certain properties of a View</string>
+        <string name="component_description_gyrosope">The gyroscope measures the rate of rotation in rad/s around a device\'s x, y, and z axis.</string>
+        <string name="component_description_firebase_auth">Firebase Auth allows online user authentication</string>
+
+        <!-- ************************************** ToDo : 2018.06.08 Component Description *******************************************-->
+        <string name="component_description_firebase_storage">Firebase Storage is built for app developers who need to store and serve user-generated content.</string>
+        <string name="component_description_camera">Camera is used to take a picture.</string>
+        <string name="component_description_file_picker">FilePicker is used to select raw and media files, such as images, sounds, and text.</string>
+
+        <string name="component_description_file_picker_guide_mime_type_example">MIME type is used to identify a type of data.\nex)\"*/*\", \"image/*\", \"audio/*\", \"text/*\"</string>
         <!-- *************************************************************************************************************************
         *************************************************   Component   End             *****************************************
         *************************************************************************************************************************
