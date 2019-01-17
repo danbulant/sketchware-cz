@@ -39,3 +39,4 @@ Musíte:
 Prosím, pamatujte že:
 - Tento kód není pod žádnou zárukou
 - Majitel nenese žádnou zodpovědnost za daný kód
+[wikipedie](https://cs.wikipedia.org/wiki/GNU_General_Public_License)
