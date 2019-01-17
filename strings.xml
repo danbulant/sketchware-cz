@@ -137,7 +137,7 @@
         <string name="main_tab_title_tutorials">Tutoriály</string>
         <string name="main_tab_title_shared_projects">Sdílené projekty</string>
         <string name="main_drawer_title_remove_ads">Odstranit reklamy</string>
-        <string name="main_drawer_title_purchase_list"></string>
+        <string name="main_drawer_title_purchase_list">Zakoupené věci</string>
         <string name="main_drawer_title_docs">Dokumentace</string>
         <string name="main_drawer_title_share_with_friends">Sdílet s přátely</string>
         <string name="main_drawer_title_system_settings">Nastavení systému</string>
@@ -444,64 +444,72 @@
         *************************************************************************************************************************
         *************************************************   Event   Start               *****************************************
         ************************************************************************************************************************* -->
-        <string name="event_title_add_new_event"></string>
-        <string name="event_title_add_new_component"></string>
-        <string name="event_message_new_event"></string>
-        <string name="event_message_new_events"></string>
-        <string name="event_message_no_events"></string>
-        <string name="event_message_no_avail_events"></string>
-        <string name="event_context_menu_title"></string>
-        <string name="event_context_menu_title_initialize_logic"></string>
-        <string name="event_context_menu_title_delete_more_block"></string>
-        <string name="event_context_menu_title_delete_event"></string>
-        <string name="event_dialog_confirm_reset_logic"></string>
-        <string name="event_dialog_confirm_delete_moreblock"></string>
-        <string name="event_dialog_confirm_delete_component"></string>
-        <string name="event_dialog_confirm_delete_logic"></string>
-        <string name="event_initialize"></string>
-        <string name="event_definefunc"></string>
-        <string name="event_onbackpressed"></string>
-        <string name="event_onpostcreated"></string>
-        <string name="event_onstart"></string>
-        <string name="event_onstop"></string>
-        <string name="event_ondestroy"></string>
-        <string name="event_onresume"></string>
-        <string name="event_onpause"></string>
-        <string name="event_onclick"></string>
-        <string name="event_oncheckchanged"></string>
-        <string name="event_onitemselected"></string>
-        <string name="event_ontextchanged"></string>
-        <string name="event_onprogresschanged"></string>
-        <string name="event_onstarttrackingtouch"></string>
-        <string name="event_onstoptrackingtouch"></string>
-        <string name="event_onpagestarted"></string>
-        <string name="event_onpagefinished"></string>
-        <string name="event_onanimationstart"></string>
-        <string name="event_onanimationend"></string>
-        <string name="event_onanimationcancel"></string>
-        <string name="event_onitemclicked"></string>
-        <string name="event_onitemlongclicked"></string>
-        <string name="event_onbindcustomview"></string>
-        <string name="event_onchildadded"></string>
-        <string name="event_onchildchanged"></string>
-        <string name="event_onchildremoved"></string>
-        <string name="event_oncancelled"></string>
-        <string name="event_onsensorchanged"></string>
-        <string name="event_oncreateusercomplete"></string>
-        <string name="event_onsigninusercomplete"></string>
-        <string name="event_onresetpasswordemailsent"></string>
-        <string name="event_onadloaded"></string>
-        <string name="event_onadfailedtoload"></string>
-        <string name="event_onadopened"></string>
-        <string name="event_onadclosed"></string>
-        <string name="event_onuploadprogress"></string>
-        <string name="event_ondownloadprogress"></string>
-        <string name="event_onuploadsuccess"></string>
-        <string name="event_ondownloadsuccess"></string>
-        <string name="event_ondeletesuccess"></string>
-        <string name="event_onfailure"></string>
-        <string name="event_onpicturetaken"></string>
-        <string name="event_onfilespicked"></string>
+
+
+            <string name="event_title_add_new_event">Přidat nový event</string>
+            <string name="event_title_add_new_component">Přidat novou komponentu</string>
+
+            <string name="event_message_new_event">Nový event přidat</string>
+            <string name="event_message_new_events">Nové eventy přidány</string>
+            <string name="event_message_no_events">Žádné eventy k zobrazení</string>
+            <string name="event_message_no_avail_events">Žádné dostupné eventy k přidání</string>
+
+            <string name="event_context_menu_title">Menu eventů</string>
+            <string name="event_context_menu_title_initialize_logic">Spuštění aplikace</string>
+            <string name="event_context_menu_title_delete_more_block">Smazak funkci</string>
+            <string name="event_context_menu_title_delete_event">Smazat event</string>
+
+            <string name="event_dialog_confirm_reset_logic">Opravdu chcete resetovat tento event?</string>
+
+            <string name="event_dialog_confirm_delete_moreblock">Opravdu chcete smazat tuto funkci?</string>
+            <string name="event_dialog_confirm_delete_component">Opravdu chcete smazat tuto kompontentu?</string>
+            <string name="event_dialog_confirm_delete_logic">Všechna vybraná programová data budou smazána.\nChcete pokračovat?</string>
+
+            <string name="event_initialize">Při vytvoření aktivity</string>
+            <string name="event_definefunc">Funkce</string>
+            <string name="event_onbackpressed">Při zmáčknutí tlačítka zpět</string>
+            <string name="event_onpostcreated">Při dokončení spuštění aktivity</string>
+            <string name="event_onstart">Když se aktivita zobrazí</string>
+            <string name="event_onstop">Když aktivita není vidět</string>
+            <string name="event_ondestroy">Když se aktivita zavře</string>
+            <string name="event_onresume">Při znovuspuštění aktivity</string>
+            <string name="event_onpause">Při pozastavení aktivity</string>
+            <string name="event_onclick">při kliknutí</string>
+            <string name="event_oncheckchanged">onCheckChanged</string>
+            <string name="event_onitemselected">onItemSelected</string>
+            <string name="event_ontextchanged">onTextChanged</string>
+            <string name="event_onprogresschanged">onProgressChanged</string>
+            <string name="event_onstarttrackingtouch">onStartTrackingTouch</string>
+            <string name="event_onstoptrackingtouch">onStopTrackingTouch</string>
+            <string name="event_onpagestarted">onPageStarted</string>
+            <string name="event_onpagefinished">onPageFinished</string>
+            <string name="event_onanimationstart">onAnimationStart</string>
+            <string name="event_onanimationend">onAnimationEnd</string>
+            <string name="event_onanimationcancel">onAnimationCancel</string>
+            <string name="event_onitemclicked">onItemClicked</string>
+            <string name="event_onitemlongclicked">onItemLongClicked</string>
+            <string name="event_onbindcustomview">onBindCustomView</string>
+
+            <string name="event_onchildadded">onChildAdded</string>
+            <string name="event_onchildchanged">onChildChanged</string>
+            <string name="event_onchildremoved">onChildRemoved</string>
+            <string name="event_oncancelled">onCancelled</string>
+            <string name="event_onsensorchanged">onSensorChanged</string>
+            <string name="event_oncreateusercomplete">onCreateUserComplete</string>
+            <string name="event_onsigninusercomplete">onSignInUserComplete</string>
+            <string name="event_onresetpasswordemailsent">onResetPasswordEmailSent</string>
+            <string name="event_onadloaded">onAdLoaded</string>
+            <string name="event_onadfailedtoload">onAdFailedToLoad</string>
+            <string name="event_onadopened">onAdOpened</string>
+            <string name="event_onadclosed">onAdClosed</string>
+            <string name="event_onuploadprogress">onUploadProgress</string>
+            <string name="event_ondownloadprogress">onDownloadProgress</string>
+            <string name="event_onuploadsuccess">onUploadSuccess</string>
+            <string name="event_ondownloadsuccess">onDownloadSuccess</string>
+            <string name="event_ondeletesuccess">onDeleteSuccess</string>
+            <string name="event_onfailure">onFailure</string>
+            <string name="event_onpicturetaken">onPictureTaken</string>
+            <string name="event_onfilespicked">onFilesPicked</string>
 
         <!-- *************************************************************************************************************************
         *************************************************   Event   End                 *****************************************
