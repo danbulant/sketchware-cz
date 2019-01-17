@@ -3,9 +3,8 @@
 <resources>
   <!-- Google play visibility-->
   <string name="title">Vytvářej vlastní aplikace</string>
-  <string name="desc_short"> </string>
-  <string name="desc_long">Vytvářej nativní aplikace na android.
-
+  <string name="desc_short"> Vytvářej nativní aplikace na android z mobilu.</string>
+  <string name="desc_long">
   Hlavní funkce:
 
   - Blokové programování ve stylu Scratch od MIT
