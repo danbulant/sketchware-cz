@@ -10,16 +10,16 @@
 
   - Blokové programování ve stylu Scratch od MIT
   - Visuální integrované vývojářské prostředí
-  - Automatically translated source code (Java and XML)
-  - Compile and build install files on your phone (APK file)
-  - Publish and update to Google Play Store
-  - Fully Compatible with Android Studio
+  - Automatický překladač kódu (Android Java, XML)
+  - Kompilace a sestavení aplikací (vytvoření APK)
+  - Sdílení do obchodu Google Play
+  - Plně kompatibilní s android studiem
 
-  Sketchware is a Scratch-like block programming based integrated development environment (IDE) for developing mobile Android apps.
+  Sketchware je aplikace pro programování android aplikací pomocí bloků Scratch.
 
-  It's okay if you do not know anything about developing Android apps. Sketchware is an IDE that uses block language like Scratch, an innovative programming language invented by MIT that transforms the complex language of text-based coding into visual, drag-and-drop building blocks.
+  Je v pořádku pokud nic nevíte o sestavení aplikací. Sketchware je IDE které používá visuální blokové programování Scratch který vyvynulí odborníci z MIT.
 
-  Scratch is such a simple language, even little children can learn to develop. Sketchware translates Scratch into Java and XML source codes, so there is no limit on what you can develop.
+  Scratch je tak jednoduchý jazyk že i děti se mohou naučit programovat. Sketchware translates Scratch into Java and XML source codes, so there is no limit on what you can develop.
 
   Sketchware provides documentations you can follow to become an expert at Scratch block programming and Android app development. Each example contains programming concepts you can understand by completing the project.
 
