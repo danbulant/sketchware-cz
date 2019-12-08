@@ -1549,9 +1549,9 @@
         <string name="block_calendar_set_body_2">hodnotu</string>
         <string name="block_calendar_set_tail"></string>
         <string name="block_calendar_format_head"></string>
-        <string name="block_calendar_format_body_1">Format</string>
+        <string name="block_calendar_format_body_1">Formát</string>
         <string name="block_calendar_format_tail"></string>
-        <string name="block_calendar_diff_head">Difference</string>
+        <string name="block_calendar_diff_head">Rozdíly</string>
         <string name="block_calendar_diff_body_1">-</string>
         <string name="block_calendar_diff_tail"></string>
         <string name="block_vibrator_action_head"></string>
@@ -1646,7 +1646,7 @@
         <string name="block_objectanimator_set_repeat_count_body_1">nastav počet opakování</string>
         <string name="block_objectanimator_set_repeat_count_tail"></string>
         <string name="block_objectanimator_set_interpolator_head"></string>
-        <string name="block_objectanimator_set_interpolator_body_1">nastav interpolator</string>
+        <string name="block_objectanimator_set_interpolator_body_1">nastav interpolátor</string>
         <string name="block_objectanimator_set_interpolator_tail"></string>
         <string name="block_objectanimator_start_head"></string>
         <string name="block_objectanimator_start_tail">start</string>
@@ -1723,7 +1723,7 @@
         <string name="block_firebase_get_key_head"></string>
         <string name="block_firebase_get_key_tail">push getKey</string>
         <string name="block_list_smooth_scrollto_head"></string>
-        <string name="block_list_smooth_scrollto_body_1">smoothScrollToPosition</string>
+        <string name="block_list_smooth_scrollto_body_1">posunout na pozici</string>
         <string name="block_list_smooth_scrollto_tail"></string>
         <string name="block_set_typeface_head"></string>
         <string name="block_set_typeface_body_1">nastav font</string>
